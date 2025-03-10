@@ -1,3 +1,5 @@
+<p align="center"><img height="200px" src="./profile.gif" /></p>
+<p align="center">Hi, I'm Duy Nguyen 👋</p>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyen.tan.duy.646331/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/duy-nguyen-812b05310/) 
